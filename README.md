@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">Hi there, I’m Heber, a passionate full-stack developer with a focus on creating efficient and scalable web applications. 
+### <div align="center">Hi there, I’m Heber, a developer that's very passionate about being immersed in the world of development. 
 
-Since 2021, I’ve been working to improve my skills in both frontend and backend development, using various technologies.
+Since 2021, I’ve been working to improve my skills in project management and development, using various technologies.
 
-I'm always eager to learn new things, tackle challenging problems, and collaborate with others to build innovative solutions. </div>  
+I'm always eager to learn new things, tackle challenging problems, and collaborate with others to build efficient solutions. </div>  
   
 
-- 📈 I’m currently working on [**Finanqi**](https://github.com/HeberPaim/Finanqi)  
+- 📈 I’m currently working on [**Finanqi**](https://github.com/HeberPaim/Finanqi), a personal budget app.
   
 
-- 🌱 Currently learning how to use Laravel and Svelte.  
+- 🌱 Currently working with Laravel and Svelte through the making of Finanqi, to deepen my expertise in scalable and decentralized solutions.
   
 
 - 🐱 I mainly use my earnings to entertain my cats  
