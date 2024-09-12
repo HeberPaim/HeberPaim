@@ -13,10 +13,10 @@ I'm always eager to learn new things, tackle challenging problems, and collabora
 - 📈 I’m currently working on [**Finanqi**](https://github.com/HeberPaim/Finanqi)  
   
 
-- 🌱 I’m currently learning how to use Laravel and Svelte.  
+- 🌱 Currently learning how to use Laravel and Svelte.  
   
 
-- 🐱 I mostly use my earnings to entertain my cats  
+- 🐱 I mainly use my earnings to entertain my cats  
   
 
 <br/>  
