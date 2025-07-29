@@ -12,9 +12,7 @@ I'm always eager to learn new things, tackle challenging problems, and collabora
 
 - 📈 I’m currently working on [**Finanqi**](https://github.com/HeberPaim/Finanqi), a personal budget app.
   
-
-- 🌱 Currently working with Laravel and Svelte through the making of Finanqi, to deepen my expertise in scalable and decentralized solutions.
-  
+- 🌱 Currently learning Laravel through the making of Finanqi back API.  
 
 - 🐱 I mainly use my earnings to entertain my cats  
   
